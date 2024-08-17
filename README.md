@@ -1,2 +1,1 @@
-#testRepo
 # my-repository
